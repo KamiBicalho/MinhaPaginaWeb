@@ -107,7 +107,6 @@ body {
 
 .apresentacao__imagem {
     width: 45%;
-    height: 45%;
 }
 
 .rodape {
@@ -132,7 +131,7 @@ body {
 
     .apresentacao {
         flex-direction: column-reverse;
-        padding: 3%;
+        padding: 3% 6%;
     }
 
     .apresentacao__conteudo {
@@ -140,7 +139,6 @@ body {
     }
 
     .apresentacao__imagem{
-        width: 50%;
-        height: auto;
+        width: 20em;
     }
 }
